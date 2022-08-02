@@ -1,0 +1,140 @@
+[
+    [
+        {
+            "nom": "CHANCE",
+            "label": "Frais_scolarité",
+            "description": "Payez pour frais de scolarité 150 euros."
+        },
+        {
+            "nom": "CHANCE",
+            "label": "Dividende",
+            "description": "La banque vous verse un dividende de 50 euros."
+        },
+        {
+            "nom": "CHANCE",
+            "label": "Immeuble_prêt",
+            "description": "Votre immeuble et votre prêt rapportent. Vous devez toucher 150 euros."
+        },
+        {
+            "nom": "CHANCE",
+            "label": "Exces_vitesse",
+            "description": "Amende pour excès de vitesse : 15 euros."
+        },
+        {
+            "nom": "CHANCE",
+            "label": "Allez_prison",
+            "description": "Allez en prison. Rendez-vous directement en prison. Ne franchissez pas la case Départ. Ne touchez pas 200 euros."
+        },
+        {
+            "nom": "CHANCE",
+            "label": "RDV_promenade",
+            "description": "Rendez-vous à la promenade des Anglais"
+        },
+        {
+            "nom": "CHANCE",
+            "label": "Libéré-prison",
+            "description": "Vous êtes libéré de prison. Cette carte peut- être concervée jusqu'à ce qu'elle soit utilisée ou vendue."
+        },
+        {
+            "nom": "CHANCE",
+            "label": "Avancez",
+            "description": "Avancez à la Rue Barla. Si vous passez par la case Départ, recevez 200 euros."
+        },
+        {
+            "nom": "CHANCE",
+            "label": "Gare",
+            "description": "Allez à la gare du Sud. Si vous passez par la case Départ recevez 200 euros."
+        },
+        {
+            "nom": "CHANCE",
+            "label": "Départ_Chance",
+            "description": "Avancez jusqu'à la case Départ."
+        },
+        {
+            "nom": "CHANCE",
+            "label": "Ivresse",
+            "description": "Amende pour ivresse : 20 euros."
+        },
+        {
+            "nom": "CHANCE",
+            "label": "Mots_croisés",
+            "description": "Vous avez gagné le prix de mots croisés. Recevez 100 euros."
+        },
+        {
+            "nom": "CHANCE",
+            "label": "RDV_Jean",
+            "description": "Rendez-vous à l'Avenue Jean Médecin. Si vous passez par la case Départ recevez 200 euros."
+        }
+    ],
+    [{
+            "nom": "CAISSE DE COMMUNAUTE",
+            "label": "Revenu",
+            "description": "Recevez votre revenu annuel 100 euros."
+        },
+        {
+            "nom": "CAISSE DE COMMUNAUTE",
+            "label": "Stock",
+            "description": "La vente de votre stock vous rapporte 50 euros."
+        },
+        {
+            "nom": "CAISSE DE COMMUNAUTE",
+            "label": "Intérêt",
+            "description": "Recevez votre intérêt sur l'emprunt à 7%. 25 euros."
+        },
+        {
+            "nom": "CAISSE DE COMMUNAUTE",
+            "label": "Héritage",
+            "description": "Vous héritez 100 euros."
+        },
+        {
+            "nom": "CAISSE DE COMMUNAUTE",
+            "label": "Erreur_Banque",
+            "description": "Erreur de la banque en votre faveur. Recevez 200 euros."
+        },
+        {
+            "nom": "CAISSE DE COMMUNAUTE",
+            "label": "Retournez",
+            "description": "Retournez place Rossetti."
+        },
+        {
+            "nom": "CAISSE DE COMMUNAUTE",
+            "label": "Amende_Chance",
+            "description": "Payez une amende de 10 euros ou bien tirez une carte CHANCE."
+        },
+        {
+            "nom": "CAISSE DE COMMUNAUTE",
+            "label": "Contributions",
+            "description": "Les Contributions vous remboursent la somme de 20 euros."
+        },
+        {
+            "nom": "CAISSE DE COMMUNAUTE",
+            "label": "Beauté",
+            "description": "Vous avez gagné le deuxième Prix de Beauté. Recevez 10 euros."
+        },
+        {
+            "nom": "CAISSE DE COMMUNAUTE",
+            "label": "Médecin",
+            "description": "Payez la note du Médecin 50 euros."
+        },
+        {
+            "nom": "CAISSE DE COMMUNAUTE",
+            "label": "Assurance",
+            "description": "Payez la Poilice d'Assurance s'élevant à 50 euros."
+        },
+        {
+            "nom": "CAISSE DE COMMUNAUTE",
+            "label": "Prison",
+            "description": "Allez en prison. Avancez tout droit en prison. Ne passez pas par la case Départ. Ne recevez pas 200 euros."
+        },
+        {
+            "nom": "CAISSE DE COMMUNAUTE",
+            "label": "Hôpital",
+            "description": "Payez à l'Hôpital 100 euros."
+        },
+        {
+            "nom": "CAISSE DE COMMUNAUTE",
+            "label": "Départ_Communauté",
+            "description": "Placez-vous sur la case Départ."
+        }
+    ]
+]

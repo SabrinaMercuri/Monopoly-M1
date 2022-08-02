@@ -1,0 +1,796 @@
+[
+    [
+        {
+            "type": "Départ"
+        },
+        {
+            "type": "propriete",
+            "nom": "RUE ROSSETTI",
+            "sous_nom": "",
+            "Color": "#ff69b4",
+            "loyer": [
+                2,
+                10,
+                30,
+                90,
+                160,
+                250
+            ],
+            "Bâtiments": [
+                50,
+                50
+            ],
+            "hypothèque": 30
+        },
+        {
+            "type": "caisse"
+        },
+        {
+            "type": "propriete",
+            "nom": "RUE SMOLETT",
+            "sous_nom": "petit futé",
+            "Color": "#ff69b4",
+            "loyer": [
+                4,
+                20,
+                60,
+                180,
+                320,
+                450
+            ],
+            "Bâtiments": [
+                50,
+                50
+            ],
+            "hypothèque": 30
+        },
+        {
+            "type": "taxe",
+            "nom": "IMPOTS",
+            "prix": 200
+        },
+        {
+            "type": "gare",
+            "image": 1,
+            "nom": "PORT LYMPIA",
+            "loyer": [
+                25,
+                50,
+                100,
+                200
+            ],
+            "hypothèque": 100,
+            "prixAchat": 200
+        },
+        {
+            "type": "propriete",
+            "nom": "BOULEVARD RENE CASSIN",
+            "sous_nom": "aux fleurs de la riviera",
+            "Color": "#87cefa",
+            "loyer": [
+                6,
+                30,
+                90,
+                270,
+                400,
+                550
+            ],
+            "Bâtiments": [
+                50,
+                50
+            ],
+            "hypothèque": 50
+        },
+        {
+            "type": "chance"
+        },
+        {
+            "type": "propriete",
+            "nom": "BOULEVARD RISSO",
+            "sous_nom": "",
+            "Color": "#87cefa",
+            "loyer": [
+                6,
+                30,
+                90,
+                270,
+                400,
+                550
+            ],
+            "Bâtiments": [
+                50,
+                50
+            ],
+            "hypothèque": 50
+        },
+        {
+            "type": "propriete",
+            "nom": "QUAI PAPACINO",
+            "sous_nom": "confiserie florian",
+            "Color": "#87cefa",
+            "loyer": [
+                8,
+                40,
+                100,
+                300,
+                450,
+                600
+            ],
+            "Bâtiments": [
+                50,
+                50
+            ],
+            "hypothèque": 60
+        },
+        {
+            "type": "visite"
+        }
+    ],
+    [
+        {
+            "type": "propriete",
+            "nom": "PROMENADE DES ANGLAIS",
+            "sous_nom": "",
+            "Color": "#00008b",
+            "loyer": [
+                50,
+                200,
+                600,
+                1400,
+                1700,
+                2000
+            ],
+            "Bâtiments": [
+                200,
+                200
+            ],
+            "hypothèque": 200
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "propriete",
+            "nom": "RUE BARLA",
+            "sous_nom": "",
+            "Color": "#ba55d3",
+            "loyer": [
+                10,
+                50,
+                150,
+                450,
+                625,
+                750
+            ],
+            "Bâtiments": [
+                100,
+                100
+            ],
+            "hypothèque": 70
+        }
+    ],
+    [
+        {
+            "type": "taxe",
+            "nom": "TAXES",
+            "prix": 100
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "service",
+            "image": 1,
+            "nom": "COMPAGNIE DE DISTRIBUTION DE L'ELECTRICITE",
+            "loyer": [
+                150
+            ],
+            "hypothèque": 75
+        }
+    ],
+    [
+        {
+            "type": "propriete",
+            "nom": "AVENUE DE VERDUN",
+            "sous_nom": "barichella",
+            "Color": "#00008b",
+            "loyer": [
+                35,
+                175,
+                500,
+                1100,
+                1300,
+                1500
+            ],
+            "Bâtiments": [
+                200,
+                200
+            ],
+            "hypothèque": 175
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "propriete",
+            "nom": "AVENUE VALROSE",
+            "sous_nom": "",
+            "Color": "#ba55d3",
+            "loyer": [
+                10,
+                50,
+                150,
+                450,
+                625,
+                750
+            ],
+            "Bâtiments": [
+                100,
+                100
+            ],
+            "hypothèque": 70
+        }
+    ],
+    [
+        {
+            "type": "chance",
+            "nom": "CHANCE"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "propriete",
+            "nom": "AVENUE SAINT JEAN BAPTISTE",
+            "sous_nom": "",
+            "Color": "#ba55d3",
+            "loyer": [
+                10,
+                60,
+                180,
+                500,
+                700,
+                900
+            ],
+            "Bâtiments": [
+                100,
+                100
+            ],
+            "hypothèque": 80
+        }
+    ],
+    [
+        {
+            "type": "gare",
+            "image": 2,
+            "nom": "GARE DE NICE VILLE",
+            "loyer": [
+                25,
+                50,
+                100,
+                200
+            ],
+            "hypothèque": 100,
+            "prixAchat": 200
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "gare",
+            "image": 2,
+            "nom": "GARE DU SUD",
+            "loyer": [
+                25,
+                50,
+                100,
+                200
+            ],
+            "hypothèque": 100,
+            "prixAchat": 200
+        }
+    ],
+    [
+        {
+            "type": "propriete",
+            "nom": "BD MAURICE MAETERLINCK",
+            "sous_nom": "palais maeterlinck",
+            "Color": "#2e8b57",
+            "loyer": [
+                28,
+                150,
+                450,
+                1000,
+                1200,
+                1400
+            ],
+            "Bâtiments": [
+                200,
+                200
+            ],
+            "hypothèque": 160
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "propriete",
+            "nom": "PLACE GARIBALDI",
+            "sous_nom": "café de turin",
+            "Color": "#ff8c00",
+            "loyer": [
+                14,
+                70,
+                200,
+                550,
+                750,
+                950
+            ],
+            "Bâtiments": [
+                100,
+                100
+            ],
+            "hypothèque": 90
+        }
+    ],
+    [
+        {
+            "type": "caisse"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "caisse"
+        }
+    ],
+    [
+        {
+            "type": "propriete",
+            "nom": "PLACE MASSENA",
+            "sous_nom": "tmc monte carlo",
+            "Color": "#2e8b57",
+            "loyer": [
+                26,
+                130,
+                390,
+                900,
+                1100,
+                1275
+            ],
+            "Bâtiments": [
+                200,
+                200
+            ],
+            "hypothèque": 150
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "propriete",
+            "nom": "AVENUE DE LA CALIFORNIE",
+            "sous_nom": "",
+            "Color": "#ff8c00",
+            "loyer": [
+                14,
+                70,
+                200,
+                550,
+                750,
+                950
+            ],
+            "Bâtiments": [
+                100,
+                100
+            ],
+            "hypothèque": 90
+        }
+    ],
+    [
+        {
+            "type": "propriete",
+            "nom": "BOULEVARD DE CIMIEZ",
+            "sous_nom": "",
+            "Color": "#2e8b57",
+            "loyer": [
+                26,
+                130,
+                390,
+                900,
+                1100,
+                1275
+            ],
+            "Bâtiments": [
+                200,
+                200
+            ],
+            "hypothèque": 150
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "null"
+        },
+        {
+            "type": "propriete",
+            "nom": "RUE ST FRANCOIS DE PAULE",
+            "sous_nom": "auer",
+            "Color": "#ff8c00",
+            "loyer": [
+                16,
+                80,
+                220,
+                600,
+                800,
+                1000
+            ],
+            "Bâtiments": [
+                100,
+                100
+            ],
+            "hypothèque": 100
+        }
+    ],
+    [
+        {
+            "type": "prison"
+        },
+        {
+            "type": "propriete",
+            "nom": "BOULEVARD TZAREWITCH",
+            "sous_nom": "",
+            "Color": "#ffd700",
+            "loyer": [
+                24,
+                120,
+                360,
+                850,
+                1025,
+                1200
+            ],
+            "Bâtiments": [
+                150,
+                150
+            ],
+            "hypothèque": 140
+        },
+        {
+            "type": "service",
+            "image": 2,
+            "nom": "COMPAGNIE DE DISTRIBUTION DES EAUX",
+            "loyer": [
+                150
+            ],
+            "hypothèque": 75
+        },
+        {
+            "type": "propriete",
+            "nom": "BOULEVARD CARABACEL",
+            "sous_nom": "costamagna",
+            "Color": "#ffd700",
+            "loyer": [
+                22,
+                110,
+                330,
+                800,
+                975,
+                1150
+            ],
+            "Bâtiments": [
+                150,
+                150
+            ],
+            "hypothèque": 130
+        },
+        {
+            "type": "propriete",
+            "nom": "BOULEVARD DUBOUCHAGE",
+            "sous_nom": "cote",
+            "Color": "#ffd700",
+            "loyer": [
+                22,
+                110,
+                330,
+                800,
+                975,
+                1150
+            ],
+            "Bâtiments": [
+                150,
+                150
+            ],
+            "hypothèque": 130
+        },
+        {
+            "type": "gare",
+            "image": 0,
+            "nom": "AEROPORT NICE COTE D'AZUR",
+            "loyer": [
+                25,
+                50,
+                100,
+                200
+            ],
+            "hypothèque": 100,
+            "prixAchat": 200
+        },
+        {
+            "type": "propriete",
+            "nom": "AVENUE JEAN MEDECIN",
+            "sous_nom": "nice etoile",
+            "Color": "#ff0000",
+            "loyer": [
+                20,
+                100,
+                300,
+                750,
+                925,
+                1100
+            ],
+            "Bâtiments": [
+                150,
+                150
+            ],
+            "hypothèque": 120
+        },
+        {
+            "type": "propriete",
+            "nom": "COURS SALEYA",
+            "sous_nom": "brasserie les pochettes",
+            "Color": "#ff0000",
+            "loyer": [
+                18,
+                90,
+                250,
+                700,
+                875,
+                1050
+            ],
+            "Bâtiments": [
+                150,
+                150
+            ],
+            "hypothèque": 110
+        },
+        {
+            "type": "chance"
+        },
+        {
+            "type": "propriete",
+            "nom": "RUE GIOFFREDO",
+            "sous_nom": "la maison du rideau",
+            "Color": "#ff0000",
+            "loyer": [
+                18,
+                90,
+                250,
+                700,
+                875,
+                1050
+            ],
+            "Bâtiments": [
+                150,
+                150
+            ],
+            "hypothèque": 110
+        },
+        {
+            "type": "parc"
+        }
+    ]
+]

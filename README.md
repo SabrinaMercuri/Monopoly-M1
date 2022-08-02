@@ -1,1 +1,3 @@
-# Monopoly-M1
+# Monopoly-M1   
+
+Projet d'année M1
